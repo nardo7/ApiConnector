@@ -1,0 +1,10 @@
+{
+  "client_id": "86a7o0tyaf5hve",
+  "secret_key":"igLkSIOKMM34b8S9",
+  "response_type":"code",
+  "redirect_uri":"https://4f8ffa03.ngrok.io/api/auth/callback/",
+  "state":"have_a_nice_day3",
+  "scope":"r_emailaddress%20r_liteprofile%20w_member_social",
+  "auth_uri":"https://4f8ffa03.ngrok.io/api/auth/"
+
+}
