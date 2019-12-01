@@ -1,17 +1,87 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\source\\repos\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj": {}
+    "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\source\\repos\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj": {
+    "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ClassDomain.Context\\DataModel.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\source\\repos\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj",
-        "projectName": "ServerOAuthModule",
-        "projectPath": "C:\\Users\\aleja\\source\\repos\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ClassDomain.Context\\DataModel.Context.csproj",
+        "projectName": "DataModel.Context",
+        "projectPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ClassDomain.Context\\DataModel.Context.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\source\\repos\\ServerOAuthModule\\ServerOAuthModule\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ClassDomain.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj": {
+                "projectPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj",
+        "projectName": "DataModel.Classes",
+        "projectPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,16 +107,91 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj",
+        "projectName": "ServerOAuthModule",
+        "projectPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ServerOAuthModule\\ServerOAuthModule.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ServerOAuthModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ClassDomain.Context\\DataModel.Context.csproj": {
+                "projectPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\ClassDomain.Context\\DataModel.Context.csproj"
+              },
+              "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj": {
+                "projectPath": "C:\\Users\\aleja\\programming\\App\\ServerOAuthModule\\DataModel.Classes\\DataModel.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
