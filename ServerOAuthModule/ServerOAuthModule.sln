@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerOAuthModule", "ServerOAuthModule\ServerOAuthModule.csproj", "{D45E5703-1F37-44DA-815F-A5B3542549A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerOAuthModule", "ServerOAuthModule\ServerOAuthModule.csproj", "{D45E5703-1F37-44DA-815F-A5B3542549A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel.Classes", "DataModel.Classes\DataModel.Classes.csproj", "{073EB59E-3304-4721-B979-BEFE5DEEA9FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel.Context", "ClassDomain.Context\DataModel.Context.csproj", "{DA4380DD-9D0E-45B8-B2D2-D7C44CC40659}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D45E5703-1F37-44DA-815F-A5B3542549A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D45E5703-1F37-44DA-815F-A5B3542549A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D45E5703-1F37-44DA-815F-A5B3542549A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073EB59E-3304-4721-B979-BEFE5DEEA9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073EB59E-3304-4721-B979-BEFE5DEEA9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073EB59E-3304-4721-B979-BEFE5DEEA9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073EB59E-3304-4721-B979-BEFE5DEEA9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4380DD-9D0E-45B8-B2D2-D7C44CC40659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4380DD-9D0E-45B8-B2D2-D7C44CC40659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4380DD-9D0E-45B8-B2D2-D7C44CC40659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4380DD-9D0E-45B8-B2D2-D7C44CC40659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Context.deps.json
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Context.runtimeconfig.json
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Context.runtimeconfig.dev.json
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Context.dll
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Context.pdb
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Classes.dll
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\bin\Debug\netcoreapp3.0\DataModel.Classes.pdb
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\obj\Debug\netcoreapp3.0\DataModel.Context.csprojAssemblyReference.cache
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\obj\Debug\netcoreapp3.0\DataModel.Context.AssemblyInfoInputs.cache
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\obj\Debug\netcoreapp3.0\DataModel.Context.AssemblyInfo.cs
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\obj\Debug\netcoreapp3.0\DataModel.Context.csproj.CopyComplete
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\obj\Debug\netcoreapp3.0\DataModel.Context.dll
+C:\Users\aleja\programming\App\ServerOAuthModule\ClassDomain.Context\obj\Debug\netcoreapp3.0\DataModel.Context.pdb
