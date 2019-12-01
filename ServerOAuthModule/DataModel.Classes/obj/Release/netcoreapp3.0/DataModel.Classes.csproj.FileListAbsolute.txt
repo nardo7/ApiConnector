@@ -1,0 +1,8 @@
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\bin\Release\netcoreapp3.0\DataModel.Classes.deps.json
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\bin\Release\netcoreapp3.0\DataModel.Classes.dll
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\bin\Release\netcoreapp3.0\DataModel.Classes.pdb
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\obj\Release\netcoreapp3.0\DataModel.Classes.csprojAssemblyReference.cache
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\obj\Release\netcoreapp3.0\DataModel.Classes.AssemblyInfoInputs.cache
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\obj\Release\netcoreapp3.0\DataModel.Classes.AssemblyInfo.cs
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\obj\Release\netcoreapp3.0\DataModel.Classes.dll
+C:\Users\aleja\programming\App\ServerOAuthModule\DataModel.Classes\obj\Release\netcoreapp3.0\DataModel.Classes.pdb
